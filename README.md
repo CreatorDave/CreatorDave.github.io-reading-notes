@@ -1,4 +1,4 @@
-# CreatorDave.github.io-reading-notes
+# Reading Notes
 
 Hi,
 
