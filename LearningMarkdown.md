@@ -367,7 +367,11 @@ You can also use words, to fit your writing style more closely[^note].
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
 
+This site was built using [GitHub Pages](https://pages.github.com/)
 
+Contact Info:
+David Sitthideth
+Email: Trajan996@yahoo.com
 
 
 
