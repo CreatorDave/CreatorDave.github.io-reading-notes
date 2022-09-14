@@ -3,8 +3,8 @@
 
 Hi,
 
-<h1>My name is David Sitthideth and I am a software developer. Looking to grow in my field. Here is a link to my github portfolio page.
-Portfolio page [Github Pages](https://github.com/CreatorDave)</h1>
+<h4>My name is David Sitthideth and I am a software developer. Looking to grow in my field. Here is a link to my github portfolio page.
+Portfolio page [Github Pages](https://github.com/CreatorDave)</h4>
 
 Growth mindset
   A growth mindset is embracing challenges, persisting through obstacles, maintaining effort (no pain, no gain), and learning from criticism.
