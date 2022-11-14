@@ -20,7 +20,7 @@ Growth mindset
 
 
 This site was built using [GitHub Pages](https://pages.github.com/)
-Learning Markdown page [Learning Markdown](LearningMarkdown.html)
+Learning Markdown page [Learning Markdown](LearningMarkdown.md)
 
 Contact Info:
 David Sitthideth
