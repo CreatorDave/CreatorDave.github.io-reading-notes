@@ -4,7 +4,7 @@
 Hi,
 
 My name is David Sitthideth and I am a software developer. Looking to grow in my field. Here is a link to my github portfolio page.
-Portfolio page [Github Pages](https://github.com/CreatorDave)
+Portfolio page [Github Pages](https://github.com/CreatorDave) My previous background includes being a mechanic in the United States Air Force and the United States Coast Guard. For the Air force the mission was training F-16 fighter pilots and for the Coast Guard the mission was drug interdiction. Following this, I worked in higher education and then law as a patent assistant. Today I'm developing my skills in software development. Looking forward to the future and the many things we'll build!
 
 Growth mindset
   A growth mindset is embracing challenges, persisting through obstacles, maintaining effort (no pain, no gain), and learning from criticism.
