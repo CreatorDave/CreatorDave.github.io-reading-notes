@@ -23,7 +23,7 @@ This website is about growing as a developer. You will read notes about Git, the
 
 ## Table of Contents
 
-### 102
+### Code 102 Reading Notes
 
 * [Class 1](102/class1notes.md)
 * [Class 2](102/class2notes.md)
@@ -34,7 +34,7 @@ This website is about growing as a developer. You will read notes about Git, the
 * [Class 7](102/class7notes.md)
 * [Class 8](102/class8notes.md)
 
-### 201
+### Code 201 Reading Notes
 
 * [Class 1](201/class1notes.md)
 * [Class 2](201/class2notes.md)
