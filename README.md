@@ -1,4 +1,5 @@
 # CreatorDave.github.io-reading-notes
+
 # Reading Notes
 
 Hi,
@@ -30,15 +31,13 @@ This website is about growing as a developer. You will read notes about Git, the
 * Class 6
 * Class 7
 * Class 8
- 
-  Reminders:
-  1. - [X] I will 🥇 approach problems with the motivation to accept the challenge
-  2. - [ ] I will 🥈listen to criticism and learn from my mistakes
-  3. - [ ] I will 🥉 be inspired by others successes
 
+  Reminders:
+  *. - [X] I will 🥇 approach problems with the motivation to accept the challenge
+  *. - [ ] I will 🥈listen to criticism and learn from my mistakes
+  *. - [ ] I will 🥉 be inspired by others successes
 
 ![This is an image](https://www.gannett-cdn.com/-mm-/2bc08aab6cecfac90c598f70fdd762b4436caca8/c=0-91-2994-1782/local/-/media/2015/11/10/Phoenix/Phoenix/635827814877487822-Norwegian-F-35-10.JPG?width=2994&height=1691&fit=crop&format=pjpg&auto=webp)
-
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 Learning Markdown page [Learning Markdown](LearningMarkdown.md)
