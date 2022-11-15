@@ -1,6 +1,6 @@
 # CreatorDave.github.io-reading-notes
 
-# Reading Notes
+## Reading Notes
 
 Hi,
 
@@ -21,16 +21,38 @@ It is a pleasure to meet you. Thank you for touring my website. Here you will fi
 
 This website is about growing as a developer. You will read notes about Git, the Command Line, the terminal, GitHub, Html, CSS, and JavaScript. The notes are displayed by class notes and will proceed through the 102 course as given through Code Fellows.
 
-# Table of Contents
+## Table of Contents
 
-* Class 1
-* Class 2
-* Class 3
-* Class 4
-* Class 5
-* Class 6
-* Class 7
-* Class 8
+### 102
+
+* [Class 1](102/class1notes.md)
+* [Class 2](102/class2notes.md)
+* [Class 3](102/class3notes.md)
+* [Class 4](102/class4notes.md)
+* [Class 5](102/class5notes.md)
+* [Class 6](102/class6notes.md)
+* [Class 7](102/class7notes.md)
+* [Class 8](102/class8notes.md)
+
+### 201
+
+* [Class 1](201/class1notes.md)
+* [Class 2](201/class2notes.md)
+* [Class 3](201/class3notes.md)
+* [Class 4](201/class4notes.md)
+* [Class 5](201/class5notes.md)
+* [Class 6](201/class6notes.md)
+* [Class 7](201/class7notes.md)
+* [Class 8](201/class8notes.md)
+* [Class 9](201/class9notes.md)
+* [Class 10](201/class10notes.md)
+* [Class 11](201/class11notes.md)
+* [Class 12](201/class12notes.md)
+* [Class 13](201/class13notes.md)
+* [Class 14](201/clas14notes.md)
+* [Class 15](201/class15notes.md)
+
+[Back Home](../reading-notes/README.md)
 
   Reminders:
   *. - [X] I will 🥇 approach problems with the motivation to accept the challenge
