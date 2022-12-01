@@ -50,5 +50,13 @@ Pair programing makes catching mistakes easier while producing higher-quality co
 
 It improves social skills. Gets you used to a different coding style. Develops interpersonal skills. It is essential to hire people who can work well with others. I think this could help me by getting me out of my shell and not being afraid to ask questions and work toward a solution.
 
+## Functions
+
+What is it?
+
+-Reuseable
+-easier to read
+-efficient
+
 
 [Back Home](../reading-notes/README.md)
