@@ -90,4 +90,28 @@ Deciding if to get up and eat breakfast or to stay in bed and rest.
 Give an example of when a Loop is useful in JavaScript.
 A loop is useful when you want to ask something repeatedly until you get the right answer. Like as if this will complete your order at a drive through so you can pull forward and pay for your meal.
 
+# Class 03 Lecture Notes
+
+## Arrays
+
+-Data Type // Data Structure **special type of object**
+-A collection or a list of elements
+  - can be mixed - I can store numbers, strings, other arrays all in the same array
+-Don't have to determine the size of our array
+
+-Every element will have a position in array - referred to as its index
+  -Arrays are zero based index
+
+```js
+//                  0     1     2     3
+  let myArray = ['hello', 1, true, 'bye'];
+```
+
+-Arrays also have built-in methods
+  -`.push()` - add to the end of the array
+  - `.pop()` - remove the last element from the array
+
+- Arrays also have properties
+  - `.length` - this is going to tell me how many elements live in my array.
+
 [Back Home](../reading-notes/README.md)
