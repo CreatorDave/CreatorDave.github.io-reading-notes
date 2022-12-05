@@ -1,4 +1,4 @@
-How would you describe an object to a non-technical friend you grew up with?
+## How would you describe an object to a non-technical friend you grew up with?
 An object is a collection of data and functionality. Consisting of variables and functions. An object begins with defining and initializing a variable. 
 
 const person = {}
@@ -18,14 +18,14 @@ person.introduceSelf();
 
 An object is a container with various functions and data.
 
-What are some advantages to creating object literals?
+## What are some advantages to creating object literals?
 An Object is a special type of value in JavaScript that can have connections with other values.
 
 An Object Literal is an object value that you literally write in your program/app.
 
 An Object Literal usually consists of a list of comma-separated name-value pairs (property:value), wrapped inside curly braces {}.
 
-How do objects differ from arrays?
+## How do objects differ from arrays?
 Objects can hold functions and various forms of data. Arrays typically hold strings and numbers. Where an Array is a list a object is a variety of data and functions.
 
 Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
@@ -45,7 +45,7 @@ This looks very similar to how you access the items in an array, and it is basic
 
  if an object property name is held in a variable, then you can't use dot notation to access the value, but you can access the value using bracket notation.
 
-Evaluate the code below. What does the term this refer to and what is the advantage to using this?
+## Evaluate the code below. What does the term this refer to and what is the advantage to using this?
 const dog = {
   name: 'Spot',
   age: 2,
@@ -57,7 +57,7 @@ const dog = {
 
 'this.name' is dot notation with name being the method. 'this' is the current object that the code is being written inside.
 
-What is "this"?
+## What is "this"?
 You may have noticed something slightly strange in our methods. Look at this one for example:
 
 introduceSelf() {
@@ -68,7 +68,7 @@ You are probably wondering what "this" is. The this keyword refers to the curren
 
 Well, when you only have to create a single object literal, it's not so useful. But if you create more than one, this enables you to use the same method definition for every object you create.
 
-What is the DOM?
+## What is the DOM?
 The Document Object Model (DOM) is the data representation of the objects that comprise the structure and content of a document on the web.
 
 
